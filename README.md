@@ -1,4 +1,5 @@
-# mc322
+# Aluno
+* Leandro Ponsano Corimbaba
 
-Repo destinado às atividades de MC322 (Programação Orientada a Objetos).\
-Bem vindo 👍
+# Curso
+* Engenharia da Computação (34)
