@@ -19,7 +19,7 @@ public class AppDama {
 	    return states;
 	}
 	public static void main(String args[]) {
-		executaJogo("src/mc322/lab05/test1.csv");
+		executaJogo(args[0]);
 	}
 
 }
