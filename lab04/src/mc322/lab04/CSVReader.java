@@ -1,4 +1,4 @@
-package lab04;
+package mc322.lab04;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
